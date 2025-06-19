@@ -61,4 +61,37 @@ To examine the trends and relationships between:
 ## 🗂️ Project File Structure
 
 This is a visual representation of how the project files are organized. It is not clickable.
+📦 HIV-Continental-Study-Africa
+├── data/
+│ ├── raw/ # Original downloaded datasets
+│ └── cleaned/ # Cleaned and processed datasets
+├── scripts/
+│ ├── 01_data_wrangling.R
+│ ├── 02_visualization.R
+│ └── 03_analysis.R
+├── output/
+│ └── plots/ # Exported charts and graphs
+├── README.md # Project summary and instructions
+└── HIV_Continental_Analysis_Report.pdf
 
+
+---
+
+## 🎓 Academic Relevance
+
+This project reflects **doctoral-level independence**, coding proficiency, and strong epidemiological reasoning. It was **entirely conceptualized, coded, and authored by the researcher** and serves as a foundation for high-level research, international conference presentation, and PhD/postdoctoral applications in global health and epidemiology.
+
+---
+
+## 📫 Contact
+
+**Uthman Al-Ameen Olalekan**  
+📧 uthmanolanase01@gmail.com  
+🔗 [GitHub Repository Link]  
+🧾 CV available upon request
+
+---
+
+## 🔗 Citation
+
+> Uthman, A.A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2000–2023_. [Manuscript under review].
