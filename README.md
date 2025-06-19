@@ -75,13 +75,14 @@ This is a visual representation of how the project files are organized. It is no
 │   └── plots/                 # Exported charts and graphs
 ├── README.md                  # Project summary and instructions
 └── HIV_Continental_Analysis_Report.pdf
-
+---
 ## 🎓 Academic Relevance
 
 This project reflects **doctoral-level independence**, coding proficiency, and strong epidemiological reasoning. It was **entirely conceptualized, coded, and authored by the researcher** and serves as a foundation for high-level research, international conference presentation, and PhD/postdoctoral applications in global health and epidemiology.
 
 ---
 
+---
 ## 📫 Contact
 
 **Uthman Al-Ameen Olalekan**  
@@ -94,3 +95,4 @@ This project reflects **doctoral-level independence**, coding proficiency, and s
 ## 🔗 Citation
 
 > Uthman, A.A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2000–2023_. Manuscript under review at *European Journal of Epidemiology*.
+---
