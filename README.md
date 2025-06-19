@@ -86,7 +86,7 @@ This project reflects **doctoral-level independence**, coding proficiency, and s
 
 **Uthman Al-Ameen Olalekan**  
 📧 uthmanolanase01@gmail.com  
-🔗 [View Full Project on GitHub](https://github.com/uthmanolanase/HIV-Continental-Study-Africa)  
+🔗 [View Full Project on GitHub](https://github.com/uthmanolanase/HIV-Continental-Study-Africa)
 🧾 CV available upon request
 
 
