@@ -39,6 +39,7 @@ To examine the trends and relationships between:
 - **Data Wrangling:** Cleaning, merging, reshaping, and handling missing data  
 - **Imputation:** Scientific midpoint approximation for values represented as ranges (e.g., "<200")  
 - **Statistical Analysis:**
+  - Descriptive statistics
   - Pearson correlation
   - Linear regression
   - Multiple linear regression  
@@ -83,11 +84,9 @@ This project reflects **doctoral-level independence**, coding proficiency, and s
 ---
 
 ## 📫 Contact
-
-
-**Uthman Al-Ameen Olalekan**  
-📧 uthmanolanase01@gmail.com  
-🔗 View Full Project on GitHub: https://github.com/uthmanolanase/HIV-Continental-Study-Africa  
+Uthman Al-Ameen Olalekan
+📧 uthmanolanase01@gmail.com
+🔗 View Full Project on GitHub: https://github.com/uthmanolanase/HIV-Continental-Study-Africa
 🧾 CV available upon request
 
 ---
