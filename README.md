@@ -46,7 +46,7 @@ To examine the trends and relationships between:
 - **Visualizations:**
   - Line plots of longitudinal trends
   - Scatter plots for bivariate comparisons
-  -Bar charts for cross-country comparisons
+  - Bar charts for cross-country comparisons
 
 ---
 
