@@ -62,7 +62,7 @@ To examine the trends and relationships between:
 
 This is a visual representation of how the project files are organized. It is not clickable.
 
-```
+``` bash
 ```
 📦 HIV-Continental-Study-Africa
 ├── data/
