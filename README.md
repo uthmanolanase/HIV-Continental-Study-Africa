@@ -58,13 +58,11 @@ To examine the trends and relationships between:
 ![AIDS-Related Mortality](output/plots/mortality_trend.png)
 
 ---
-## 🗂️ Project File Structure
-
-This is a visual representation of how the project files are organized. It is not clickable.
 
 ## 🗂️ Project Structure
 
 ```bash
+
 📦 HIV-Continental-Study-Africa
 ├── data/
 │   ├── raw/                   # Original downloaded datasets
@@ -77,7 +75,6 @@ This is a visual representation of how the project files are organized. It is no
 │   └── plots/                 # Exported charts and graphs
 ├── README.md                  # Project summary and instructions
 └── HIV_Continental_Analysis_Report.pdf
----
 ```
 ## 🎓 Academic Relevance
 
