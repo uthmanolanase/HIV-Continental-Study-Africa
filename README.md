@@ -76,6 +76,14 @@ To examine the trends and relationships between:
 ├── README.md                  # Project summary and instructions
 └── HIV_Continental_Analysis_Report.pdf
 ```
+
+## 📊 Key Findings
+
+- ART coverage increased significantly across most countries from 2005 to 2023.
+- A strong negative correlation was observed between ART coverage and AIDS-related mortality.
+- Multiple regression analysis showed that ART coverage explained ~68% of the variability in mortality reduction.
+---
+
 ## 🎓 Academic Relevance
 
 This project reflects **doctoral-level independence**, coding proficiency, and strong epidemiological reasoning. It was **entirely conceptualized, coded, and authored by the researcher** and serves as a foundation for high-level research, international conference presentation, and PhD/postdoctoral applications in global health and epidemiology.
