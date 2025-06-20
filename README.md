@@ -76,6 +76,7 @@ This is a visual representation of how the project files are organized. It is no
 ├── README.md                  # Project summary and instructions
 └── HIV_Continental_Analysis_Report.pdf
 ---
+```
 ## 🎓 Academic Relevance
 
 This project reflects **doctoral-level independence**, coding proficiency, and strong epidemiological reasoning. It was **entirely conceptualized, coded, and authored by the researcher** and serves as a foundation for high-level research, international conference presentation, and PhD/postdoctoral applications in global health and epidemiology.
