@@ -89,6 +89,13 @@ To examine the trends and relationships between:
 This project reflects **doctoral-level independence**, coding proficiency, and strong epidemiological reasoning. It was **entirely conceptualized, coded, and authored by the researcher** and serves as a foundation for high-level research, international conference presentation, and PhD/postdoctoral applications in global health and epidemiology.
 
 ---
+## 📄 Preprint Version Available
+
+This study is currently under review at the *European Journal of Epidemiology*.  
+You can view the **preprint version** via Research Square:  
+🔗 [View Preprint](https://doi.org/your-doi-link)
+
+---
 ## 📫 Contact
 
 **Uthman Al-Ameen Olalekan**  
