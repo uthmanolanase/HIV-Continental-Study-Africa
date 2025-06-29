@@ -30,7 +30,7 @@ To examine the trends and relationships between:
 - [World Health Organization (WHO)](https://www.who.int/data)
 - [World Bank DataBank](https://databank.worldbank.org/)
 
-> 📝 Note: Africa comprises 54 countries, but only 48 had complete records across the variables studied.
+> 📝 Note: Africa comprises 54 countries, but only 48 had complete records across the variables studied. Therefore the final analysis was based on 48 countries.
 
 ---
 
