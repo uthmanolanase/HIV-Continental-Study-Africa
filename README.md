@@ -1,4 +1,4 @@
-# 📊 Continental Analysis of HIV Indicators Across 47 African Countries (2000–2023)
+# 📊 Continental Analysis of HIV Indicators Across 54 African Countries (2000–2023)
 
 ### 🧠 Author: Uthman Al-Ameen Olalekan  
 *MPH, University of Ibadan, Nigeria*  
@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-This project presents a comprehensive **longitudinal analysis** of HIV-related indicators across **47 African countries** from **2000 to 2023**. The study was independently conceptualized, coded, analyzed, and visualized by the author using R, and is currently under review at the *European Journal of Epidemiology* (2023 IF: 7.7 | 5-Year IF: 9.8).
+This project presents a comprehensive **longitudinal analysis** of HIV-related indicators across **54 African countries** from **2000 to 2023**. The study was independently conceptualized, coded, analyzed, and visualized by the author using R, and is currently under review at the *European Journal of Epidemiology* (2023 IF: 7.7 | 5-Year IF: 9.8).
 
 ---
 
@@ -30,7 +30,7 @@ To examine the trends and relationships between:
 - [World Health Organization (WHO)](https://www.who.int/data)
 - [World Bank DataBank](https://databank.worldbank.org/)
 
-> 📝 Note: Africa comprises 54 countries, but only 47 had complete or partial records across the variables studied.
+> 📝 Note: Africa comprises 54 countries, but only 48 had complete records across the variables studied.
 
 ---
 
@@ -79,7 +79,7 @@ To examine the trends and relationships between:
 
 ## 📊 Key Findings
 
-- ART coverage increased significantly across most countries from 2005 to 2023.
+- ART coverage increased significantly across most countries from 2010 to 2023.
 - A strong negative correlation was observed between ART coverage and AIDS-related mortality.
 - Multiple regression analysis showed that ART coverage explained ~68% of the variability in mortality reduction.
 ---
