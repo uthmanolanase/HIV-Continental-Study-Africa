@@ -1,4 +1,5 @@
-# 📊 Continental Analysis of HIV Indicators Across 54 African Countries (2000–2023)
+# 📊 An Ecological and Longitudinal Analysis of the African Continent (2010–2023): Modeling AIDS-Related Mortality, ART Coverage, and HIV Incidence Across 54 Countries
+
 
 ### 🧠 Author: Uthman Al-Ameen Olalekan  
 *MPH, University of Ibadan, Nigeria*  
