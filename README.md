@@ -66,7 +66,7 @@ To examine the trends and relationships between:
 <!-- Replace with your uploaded images -->
 ![HIV Incidence Trend](output/plots/hiv_incidence_trend.png)  
 ![ART Coverage Over Time](output/plots/art_coverage_trend.png)  
-![AIDS-Related Mortality](output/plots/mortality_trend.png)
+![AIDS-Related Mortality](https://raw.githubusercontent.com/uthmanolanase/HIV-Continental-Study-Africa/59265224121d424d7ee0e84649e67537fe077d73/outputs/maps/AIDS_Mortality_2023.png)
 
 ---
 
