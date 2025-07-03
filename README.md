@@ -106,9 +106,8 @@ To examine the trends and relationships between:
 This project reflects **doctoral-level independence**, coding proficiency, and strong epidemiological reasoning. It was **entirely conceptualized, coded, and authored by the researcher** and serves as a foundation for high-level research, international conference presentation, and PhD/postdoctoral applications in global health and epidemiology.
 
 ---
-## 📄 Preprint Version Available
+## 🤝 Contributions
 
-🤝 Contributions
 This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.
 
 ---
