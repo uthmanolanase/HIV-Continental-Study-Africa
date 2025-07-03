@@ -40,14 +40,22 @@ To examine the trends and relationships between:
 - **Data Wrangling:** Cleaning, merging, reshaping, and handling missing data  
 - **Imputation:** Scientific midpoint approximation for values represented as ranges (e.g., "<200")  
 - **Statistical Analysis:**
-  - Descriptive statistics
-  - Pearson correlation
-  - Linear regression
-  - Multiple linear regression  
+  Data Cleaning & Standardization
+
+- Descriptive Statistics & Extreme Value Identification
+
+- Correlation Analyses (Spearman & Pearson)
+
+- Multiple Linear Regression
+
+- Panel Regression (Fixed Effects Model)
+
+- Growth Curve Modeling (Multilevel Mixed Effects)
+
+
 - **Visualizations:**
   - Line plots of longitudinal trends
-  - Scatter plots for bivariate comparisons
-  - Bar charts for cross-country comparisons
+  - Geographic Mapping using ggplot2 and sf  
 
 ---
 
@@ -80,9 +88,15 @@ To examine the trends and relationships between:
 
 ## 📊 Key Findings
 
-- ART coverage increased significantly across most countries from 2010 to 2023.
-- A strong negative correlation was observed between ART coverage and AIDS-related mortality.
-- Multiple regression analysis showed that ART coverage explained ~68% of the variability in mortality reduction.
+- Large disparities in ART coverage, ranging from 1% to 96% across countries.
+
+- South Africa remains the epicenter of HIV incidence and AIDS-related mortality.
+
+- Higher ART coverage is significantly linked to reduced HIV incidence and mortality.
+
+- Spatial maps reveal clear geographic inequalities in HIV outcomes.
+
+- Growth curve and panel regression models confirm ART scale-up reduces AIDS mortality over time.
 ---
 
 ## 🎓 Academic Relevance
