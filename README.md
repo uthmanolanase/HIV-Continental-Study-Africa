@@ -101,15 +101,14 @@ To examine the trends and relationships between:
 - Growth curve and panel regression models confirm ART scale-up reduces AIDS mortality over time.
 ---
 # How to Reproduce
-- 1. Clone the repository 
+1. Clone the repository 
 
 ```
 git clone https://github.com/uthmanolanase/HIV-Continental-Study-Africa.git
  ```
-2.Ensure you have R installed with required packages (tidyverse, plm, lme4, sf, ggplot2, viridis, etc.).
+2. Ensure you have R installed with required packages (tidyverse, plm, lme4, sf, ggplot2, viridis, etc.).
 
 3. Run the HIV_Africa_Analysis.R script step-by-step.
-
 4. All outputs, including clean datasets and maps, will be generated in the outputs/ folder.
 ## 🎓 Academic Relevance
 
