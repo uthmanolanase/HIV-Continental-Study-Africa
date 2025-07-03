@@ -9,7 +9,9 @@
 
 ## 📌 Overview
 
-This project presents a comprehensive **longitudinal analysis** of HIV-related indicators across **54 African countries** from **2000 to 2023**. The study was independently conceptualized, coded, analyzed, and visualized by the author using R, and is currently under review at the *European Journal of Epidemiology* (2023 IF: 7.7 | 5-Year IF: 9.8).
+This project presents a comprehensive longitudinal analysis of HIV-related indicators across all 54 African countries from 2010 to 2023. The analysis, including data cleaning, statistical modeling, and geospatial visualizations, was independently conducted using R.
+
+The findings are currently under peer review at the International Journal of Epidemiology (2023 Impact Factor: 5.9, 5-Year IF: 8.4). This repository provides all code and outputs to promote transparency and reproducibility.
 
 ---
 
@@ -106,11 +108,12 @@ This project reflects **doctoral-level independence**, coding proficiency, and s
 ---
 ## 📄 Preprint Version Available
 
-This study is currently under review at the *European Journal of Epidemiology*.  
-You can view the **preprint version** via Research Square:  
-🔗 [View Preprint](https://doi.org/your-doi-link)
+🤝 Contributions
+This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.
 
 ---
+---🔗 License
+This project is shared for educational and research purposes. Please contact the author for permission before reuse.
 ## 📫 Contact
 
 **Uthman Al-Ameen Olalekan**  
