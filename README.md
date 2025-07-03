@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-This project presents a comprehensive longitudinal analysis of HIV-related indicators across all 54 African countries from 2010 to 2023. The analysis, including data cleaning, statistical modeling, and geospatial visualizations, was independently conducted using R.
+This project presents a comprehensive longitudinal analysis of HIV-related indicators across all 54 African countries from 2010 to 2023, covering 756 country-year observations. The analysis, including data cleaning, statistical modeling, and geospatial visualizations, was independently conducted using R.
 
 The findings are currently under peer review at the International Journal of Epidemiology (2023 Impact Factor: 5.9, 5-Year IF: 8.4). This repository provides all code and outputs to promote transparency and reproducibility.
 
