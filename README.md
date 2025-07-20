@@ -138,5 +138,5 @@ This project is shared for educational and research purposes. Please contact the
 
 ## 🔗 Citation
 
-> Uthman, A.A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2000–2023_. Manuscript under review at * _International Journal of Epidemiology_*.
+> Uthman, A.A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2000–2024_. Manuscript under review at * _International Journal of Epidemiology_*.
 ---
