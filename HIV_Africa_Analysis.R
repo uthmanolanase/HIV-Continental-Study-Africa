@@ -1,5 +1,5 @@
 # ===========================================================
-# Ecological and Longitudinal Analysis of HIV Indicators Across Africa (2010–2023)
+# Ecological and Longitudinal Analysis of HIV Indicators Across Africa (2010–2024)
 # Author: Uthman Olalekan Al-Ameen, MPH
 # Description: Full reproducible pipeline for data cleaning, transformation, modeling, and visualization
 # ===========================================================
