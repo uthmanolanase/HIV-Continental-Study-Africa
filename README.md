@@ -10,7 +10,7 @@
 ## 📌 Overview
 
 
-This project presents a comprehensive longitudinal analysis of HIV-related indicators across all 54 African countries from 2010 to 2023, covering 756 country-year observations, derived from a larger raw dataset of 2,916 rows. The analysis, including data cleaning, statistical modeling, and geospatial visualizations, was independently conducted using R.
+This project presents a comprehensive longitudinal analysis of HIV-related indicators across all 54 African countries from 2010 to 2024, covering 810 country-year observations, derived from a larger raw dataset of 2,916 rows. The analysis, including data cleaning, statistical modeling, and geospatial visualizations, was independently conducted using R.
 
 Unlike many previous studies that primarily focus on Sub-Saharan Africa, this research provides a truly continental-wide perspective by incorporating all seven countries of North Africa, often underrepresented in comparative analyses. By including both Sub-Saharan and North African countries, this project addresses a critical research gap and offers a more comprehensive understanding of HIV-related trends across the entire African continent.
 
