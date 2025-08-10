@@ -70,7 +70,7 @@ To examine the trends and relationships between:
 <!-- Replace with your uploaded images -->
 ![HIV Incidence Trend](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/HIV_Incidence_Africa_2023.png?raw=true)  
 ![ART Coverage Over Time](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/59265224121d424d7ee0e84649e67537fe077d73/outputs/maps/ART_Coverage_Africa_2023.png?raw=true)  
-![AIDS-Related Mortality](https://raw.githubusercontent.com/uthmanolanase/HIV-Continental-Study-Africa/59265224121d424d7ee0e84649e67537fe077d73/outputs/maps/AIDS_Mortality_2023.png)
+![AIDS-Related Mortality](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/AIDS_Mortality_Africa_2024.png)
 
 ---
 
