@@ -152,10 +152,10 @@ ggplot(common_data, aes(x = Year)) +
   theme_minimal()
 
 # -------------------------
-# 14. 2023 Mapping of Indicators
+# 14. 2024 Mapping of Indicators
 # -------------------------
-map_data_2023 <- common_data %>%
-  filter(Year == 2023) %>%
+map_data_2024 <- common_data %>%
+  filter(Year == 2024) %>%
   mutate(Country = case_when(
     Country == "South Sudan" ~ "S. Sudan",
     Country == "United Republic of Tanzania" ~ "Tanzania",
@@ -166,7 +166,7 @@ map_data_2023 <- common_data %>%
 
 africa_shp <- ne_countries(continent = "Africa", returnclass = "sf") %>% st_make_valid()
 
-map_data <- left_join(africa_shp, map_data_2023, by = c("name" = "Country"))
+map_data <- left_join(africa_shp, map_data_2024, by = c("name" = "Country"))
 
 map_data$centroid <- st_centroid(st_geometry(map_data))
 coords <- st_coordinates(map_data$centroid)
@@ -179,7 +179,7 @@ ggplot(map_data) +
   geom_text(aes(x = X, y = Y, label = name), size = 2) +
   scale_fill_viridis(option = "plasma", direction = -1, na.value = "white", name = "HIV Incidence", labels = comma) +
   theme_minimal() +
-  ggtitle("HIV Incidence in Africa (2023)")
+  ggtitle("HIV Incidence in Africa (2024)")
 
 # ART Coverage Map
 ggplot(map_data) +
@@ -187,7 +187,7 @@ ggplot(map_data) +
   geom_text(aes(x = X, y = Y, label = name), size = 2) +
   scale_fill_viridis(option = "cividis", direction = -1, na.value = "white", name = "ART Coverage (%)") +
   theme_minimal() +
-  ggtitle("ART Coverage in Africa (2023)")
+  ggtitle("ART Coverage in Africa (2024)")
 
 # AIDS Mortality Map
 ggplot(map_data) +
@@ -195,8 +195,9 @@ ggplot(map_data) +
   geom_text(aes(x = X, y = Y, label = name), size = 2) +
   scale_fill_viridis(option = "magma", direction = -1, na.value = "white", name = "AIDS Mortality", labels = comma) +
   theme_minimal() +
-  ggtitle("AIDS-Related Mortality in Africa (2023)")
+  ggtitle("AIDS-Related Mortality in Africa (2024)")
 
 # ===========================================================
 # End of Script — All analyses and visualizations are reproducible
 # ===========================================================
+
