@@ -3,7 +3,7 @@
 
 ### 🧠 Author: Uthman Al-Ameen Olalekan  
 *MPH, University of Ibadan, Nigeria*  
-*Prospective PhD Candidate in Epidemiology*
+*PhD Candidate in Epidemiology*
 
 ---
 
