@@ -14,7 +14,7 @@ This project presents a comprehensive longitudinal analysis of HIV-related indic
 
 Unlike many previous studies that primarily focus on Sub-Saharan Africa, this research provides a truly continental-wide perspective by incorporating all seven countries of North Africa, often underrepresented in comparative analyses. By including both Sub-Saharan and North African countries, this project addresses a critical research gap and offers a more comprehensive understanding of HIV-related trends across the entire African continent.
 
-The findings have been submitted to the International Journal of Epidemiology (2024 Impact Factor: 5.9; 5-Year Impact Factor: 8.3)
+The findings is currently under review at the International Journal of Epidemiology (2024 Impact Factor: 5.9; 5-Year Impact Factor: 8.3)
 This repository provides all code, datasets, and outputs to promote transparency and reproducibility
 
 ---
