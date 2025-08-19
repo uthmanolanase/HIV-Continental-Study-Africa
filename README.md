@@ -71,7 +71,8 @@ To examine the trends and relationships between:
 ![HIV Incidence Trend](outputs/maps/HIV_Incidence_Africa_2024.png)  
 ![ART Coverage Over Time](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/ART_Coverage_Africa_2024.png)  
 ![AIDS-Related Mortality](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/AIDS_Mortality_Africa_2024.png)
-![HIV Incidence Trend](outputs/maps/HIV_Incidence_Africa_2024.png)
+![HIV Incidence Trend](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/HIV_Incidence_by_Country.png)
+![ART Coverage Over Time](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/ART_Coverage_Africa_2024.png)
 
 ---
 
