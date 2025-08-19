@@ -50,7 +50,7 @@ To examine the trends and relationships between:
 
 - Descriptive Statistics & Extreme Value Identification
 
-- Correlation Analyses (Spearman & Pearson)
+- Correlation Analyses (Spearman)
 
 - Multiple Linear Regression
 
