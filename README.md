@@ -14,7 +14,7 @@ This project presents a comprehensive longitudinal analysis of HIV-related indic
 
 Unlike many previous studies that primarily focus on Sub-Saharan Africa, this research provides a truly continental-wide perspective by incorporating all seven countries of North Africa, often underrepresented in comparative analyses. By including both Sub-Saharan and North African countries, this project addresses a critical research gap and offers a more comprehensive understanding of HIV-related trends across the entire African continent.
 
-This study is currently submitted to The Lancet HIV (2024 Impact Factor: 13.0)
+This study has been submitted to the European Journal of Epidemiology (2024 Impact Factor: 5.9)
 This repository provides all code, datasets, and outputs to promote transparency and reproducibility
 
 ---
@@ -140,5 +140,5 @@ This project is shared for educational and research purposes. Please contact the
 
 ## 🔗 Citation
 
-> Uthman, A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2010–2024_. Manuscript submitted to * _The Lancet HIV_*.
+> Uthman, A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2010–2024_. Manuscript submitted to * _European Journal of Epidemiology_*.
 ---
