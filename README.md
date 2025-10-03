@@ -125,7 +125,7 @@ This project reflects **doctoral-level independence**, coding proficiency, and s
 ---
 ## 🤝 Contributions
 
-This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.
+**This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.**
 ---
 ## 🔗 Related Project  
 
