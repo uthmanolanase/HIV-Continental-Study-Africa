@@ -126,6 +126,12 @@ This project reflects **doctoral-level independence**, coding proficiency, and s
 ## 🤝 Contributions
 
 This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.
+---
+## 🔗 Related Project  
+
+📊 [Global Analysis of Drug-Resistant Tuberculosis (2010–2024)](https://github.com/uthmanolanase/DrugResistance-TB-Analysis)  
+
+Together with this HIV analysis, the TB project showcases a broader **infectious disease epidemiology portfolio**, demonstrating reproducible workflows across two major global health challenges.  
 
 ---
 ---🔗 License
