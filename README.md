@@ -130,7 +130,7 @@ This project was independently designed, analyzed, and documented by Uthman Olal
 ---
 ## 🔗 Related Project  
 
-📊 [Global Analysis of Drug-Resistant Tuberculosis (2010–2024)](https://github.com/uthmanolanase/DrugResistance-TB-Analysis)  
+📊 [Global Analysis of Drug-Resistant Tuberculosis (2010–2024)](https://github.com/uthmanolanase/README.md/blob/main/README.md)  
 
 Together with this HIV analysis, the TB project showcases a broader **infectious disease epidemiology portfolio**, demonstrating reproducible workflows across two major global health challenges.  
 
