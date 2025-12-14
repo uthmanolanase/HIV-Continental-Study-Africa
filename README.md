@@ -14,8 +14,7 @@ This project presents a comprehensive longitudinal analysis of HIV-related indic
 
 Unlike many previous studies that primarily focus on Sub-Saharan Africa, this research provides a truly continental-wide perspective by incorporating all seven countries of North Africa, often underrepresented in comparative analyses. By including both Sub-Saharan and North African countries, this project addresses a critical research gap and offers a more comprehensive understanding of HIV-related trends across the entire African continent.
 
-This manuscript is currently under review at BMC Infectious Diseases (Springer Nature).
-
+This manuscript is currently under review at BMC Infectious Diseases (Springer Nature), and an abstract derived from this work has been submitted to the 26th International AIDS Conference (AIDS 2026) for consideration as an oral or poster presentation.
 > 📄 **Preprint Notice:**  
 > This study was previously shared as a preprint on *Research Square*:  
 > **Uthman Olalekan Al-Ameen (2025).** *Ecological and Longitudinal Analysis of the African Continent (2010–2024): Modeling AIDS-Related Mortality, ART Coverage, and HIV Incidence Across 54 Countries.*  
