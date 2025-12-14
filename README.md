@@ -19,7 +19,7 @@ This manuscript is currently under review at BMC Infectious Diseases (Springer N
 > This study was previously shared as a preprint on *Research Square*:  
 > **Uthman Olalekan Al-Ameen (2025).** *Ecological and Longitudinal Analysis of the African Continent (2010–2024): Modeling AIDS-Related Mortality, ART Coverage, and HIV Incidence Across 54 Countries.*  
 > 🔗 DOI: [https://doi.org/10.21203/rs.3.rs-7483580/v1](https://doi.org/10.21203/rs.3.rs-7483580/v1)  
-> 📜 *This is a preprint and has not been peer reviewed.*  
+> 📜 *This is a preprint and is currently under peer review.*  
 > Licensed under a **CC BY 4.0 License**.
 
 This repository provides all code, datasets, and outputs to promote transparency and reproducibility
