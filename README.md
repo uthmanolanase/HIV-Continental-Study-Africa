@@ -3,8 +3,6 @@
 
 ### 🧠 Author: Uthman Al-Ameen Olalekan  
 *MPH, University of Ibadan, Nigeria*  
-*PhD Applicant in Epidemiology*
-
 ---
 
 ## 📌 Overview
@@ -14,7 +12,7 @@ This project presents a comprehensive longitudinal analysis of HIV-related indic
 
 Unlike many previous studies that primarily focus on Sub-Saharan Africa, this research provides a truly continental-wide perspective by incorporating all seven countries of North Africa, often underrepresented in comparative analyses. By including both Sub-Saharan and North African countries, this project addresses a critical research gap and offers a more comprehensive understanding of HIV-related trends across the entire African continent.
 
-This manuscript is currently under review at BMC Infectious Diseases (Springer Nature), and an abstract derived from this work has been submitted to the 26th International AIDS Conference (AIDS 2026) for consideration as an oral or poster presentation.
+This manuscript is currently under review at BMC Infectious Diseases (Springer Nature).
 > 📄 **Preprint Notice:**  
 > This study was previously shared as a preprint on *Research Square*:  
 > **Uthman Olalekan Al-Ameen (2025).** *Ecological and Longitudinal Analysis of the African Continent (2010–2024): Modeling AIDS-Related Mortality, ART Coverage, and HIV Incidence Across 54 Countries.*  
@@ -50,26 +48,24 @@ To examine the trends and relationships between:
 
 ## 🔧 Methods
 
-- **Data Wrangling:** Cleaning, merging, reshaping, and handling missing data  
-- **Imputation:** Scientific midpoint approximation for values represented as ranges (e.g., "<200")  
-- **Statistical Analysis:**
-  Data Cleaning & Standardization
 
-- Descriptive Statistics & Extreme Value Identification
+## 🔧 Methods
 
-- Correlation Analyses (Spearman)
-
-- Multiple Linear Regression
-
-- Panel Regression (Fixed Effects Model)
-
-- Growth Curve Modeling (Multilevel Mixed Effects)
-
-
-- **Visualizations:**
-  - Line plots of longitudinal trends
-  - Geographic Mapping using ggplot2 and sf  
-
+- **Study Design:** Longitudinal ecological study
+- **Data Sources:** WHO Global Health Observatory and UNAIDS
+- **Data Wrangling:** Cleaning, merging, reshaping, and quality assessment
+- **Data Cleaning:** Exclusion of countries with substantial missing information
+- **Statistical Analyses:**
+  - Descriptive Statistics
+  - Shapiro–Wilk Normality Test
+  - Spearman Rank Correlation
+  - Fixed-Effects Panel Regression
+  - Hausman Specification Test
+  - Cluster-Robust Standard Errors
+  - Linear Mixed-Effects Model (Sensitivity Analysis)
+- **Visualization:**
+  - Choropleth Maps
+  - Country-specific Longitudinal Trend Plots
 ---
 
 ## 📈 Sample Visualizations
@@ -102,15 +98,17 @@ To examine the trends and relationships between:
 
 ## 📊 Key Findings
 
-- Large disparities in ART coverage, ranging from 1% to 96% across countries.
+- ART coverage increased substantially across Africa between 2010 and 2024 but remained highly heterogeneous across countries.
 
-- South Africa remains the epicenter of HIV incidence and AIDS-related mortality.
+- Greater ART coverage was consistently associated with lower AIDS-related mortality after accounting for HIV incidence and country-level heterogeneity.
 
-- Higher ART coverage is significantly linked to reduced HIV incidence and mortality.
+- HIV incidence remained a significant positive predictor of AIDS-related mortality throughout the study period.
 
-- Spatial maps reveal clear geographic inequalities in HIV outcomes.
+- A weak positive ecological association was observed between ART coverage and HIV incidence, likely reflecting ART scale-up in higher HIV-burden countries rather than a causal relationship.
 
-- Growth curve and panel regression models confirm ART scale-up reduces AIDS mortality over time.
+- Geographic maps demonstrated substantial regional disparities in HIV incidence, ART coverage, and AIDS-related mortality across the African continent.
+
+- Fixed-effects panel regression and linear mixed-effects sensitivity analyses produced consistent findings, supporting the robustness of the results.
 ---
 # How to Reproduce
 1. Clone the repository 
