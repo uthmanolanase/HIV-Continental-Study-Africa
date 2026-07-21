@@ -80,7 +80,6 @@ To examine the trends and relationships between:
 ![AIDS-Related Mortality](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/AIDS_Mortality_Map_2024.png)
 ![HIV Incidence Trend](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/HIV_Incidence_by_Country.png)
 ![ART Coverage Over Time](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/ART_Coverage_by_Country.png)
-![AIDS-Related Mortality](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/AIDS_Mortality_Map_2024.png).
 ---
 
 ## 🗂️ Project Structure
